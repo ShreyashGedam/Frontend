@@ -1,0 +1,11 @@
+.main{
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 50px;
+}
+
+.main p {
+    cursor: pointer;
+    font-size: 20px;
+}

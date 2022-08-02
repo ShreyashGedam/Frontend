@@ -1,0 +1,17 @@
+
+
+.main-register label {
+    margin-right: 10px;
+}
+
+.main-register > div {
+    margin-bottom: 10px;
+}
+
+.main-login label {
+    margin-right: 10px;
+}
+
+.main-login > div {
+    margin-bottom: 10px;
+}
